@@ -18,7 +18,7 @@
      - **All_Cols** (vector) contains the column names of the Test_And_Train_Data.
      - **Selected_Cols** is the subset of All_Cols.  Only columns which names contains mean (not meanFreq) and std are in this subset.
      - **Test_And_Train_Data_Trim** (dataframe) is a subset of **Test_And_Train_Data** which contains the subject, actlabels, actnames, the std deviation and mean measurements.
-  3. The final out is the tidy dataset **Avg_ByActSub**, which contains the average of each measurements in **Test_And_Train_Data_Trim** by subject and actnames.  It is further ordered by subject and actlabels in ascending order.
+  3. The final output is the tidy dataset **Avg_ByActSub**, which contains the average of each measurements in **Test_And_Train_Data_Trim** by subject and actnames.  It is further ordered by subject and actlabels in ascending order.
 
 
       
