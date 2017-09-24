@@ -1,5 +1,5 @@
-#Getting and Cleaning Data Course Project
-##Readme from run_analysis.R
+# Getting and Cleaning Data Course Project
+## Readme from run_analysis.R
 - The script carries out the following steps to get the tidy dataset called **Avg_ByActSub**
   1. Load packages plyr and dplyr for further usage.
   2. The following dataframes/vectors are created in sequential order:

@@ -1,8 +1,8 @@
-#Getting. and. Cleaning. Data. Course. Project
-##Codebook. for. the. **Avg_ByActSub**. (the. tidy. dataset)
+# Getting. and. Cleaning. Data. Course. Project
+## Codebook. for. the. **Avg_ByActSub**. (the. tidy. dataset)
 
-**The. Avg_ByActSub. contains. the. following. 69. variables.  Except the first 3 variables, all the other variables are either std deviation and mean measurements.
-**All these measurement have been avearged by subject and actnames. 
+* The. Avg_ByActSub. contains. the. following. 69. variables.  Except the first 3 variables, all the other variables are either std deviation and mean measurements.
+* All these measurement have been avearged by subject and actnames. 
 
 1. subject
 2. actnames
